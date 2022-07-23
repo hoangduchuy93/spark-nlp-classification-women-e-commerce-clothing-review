@@ -160,7 +160,7 @@ This is what our model predicted:
 | Sentence 4 | **unsatisfied** | **neutral** |  **Yes** |
 | Sentence 5 | satisfied | satisfied |  No |
 
-Comment: we notice that model can predict quite well, overall 4/5 cases are correct. For the "neutral" case (actual is unsatisfied), it is hard for model to predict, since "neutral" to somebody can be "It's Okay", but for others may be "Nope, it's not Okay"
+Comment: we notice that model can predict quite well, overall 4/5 cases are correct. For the "neutral" case (actual is unsatisfied), it is hard for model to predict. Since "neutral" to somebody can be "It's Okay", but for others may be "Nope, it's not Okay"
 
 Thank you for your experience with my project. Hope you enjoy it!
 
