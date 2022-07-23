@@ -98,9 +98,9 @@ Based on the above description => identify the problem:
 
 ![image](https://user-images.githubusercontent.com/91864024/180588941-81cf246d-9eff-450e-8740-b328f8fa1473.png)
 
-Comment: Logistic Regression algorithm gives higher accuracy score than other algorithms, but accuracy score is still low => consider normalizing Rating column
+Comment: Logistic Regression algorithm gives higher accuracy score than other algorithms, but accuracy score is still low => consider grouping the Rating column into fewer groups (maybe 3 groups: positive, neutral, negative. Now there are 5 groups of rating from 1 to 5). 
 
-**3.3.6. Normalize Rating column:**
+**3.3.6. Groups for Rating column:**
 - Create column Rating_idx where:
   - Rating >= 4: Positive
   - Rating <= 2: Negative
@@ -112,7 +112,7 @@ Comment: Logistic Regression algorithm gives higher accuracy score than other al
 Comments: users tend to give Positive rating more than Neutral and Negative
 
 **3.3.7. Applied model:**
-- Repeat step 3.3.1 to 3.3.6 for new normalized column.
+- Repeat step 3.3.1 to 3.3.6 for new Rating_idx column.
 - Accuracy score of new models are shown below:
 
 ![image](https://user-images.githubusercontent.com/91864024/180589135-b0154828-f69d-49d6-9cb7-8e152b044834.png)
