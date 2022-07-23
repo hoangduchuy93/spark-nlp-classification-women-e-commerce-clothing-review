@@ -152,7 +152,7 @@ This is what our model predicted:
 ![image](https://user-images.githubusercontent.com/91864024/180589593-37e70746-c608-4a4f-b4ba-65e17098b85a.png)
 
 
-| Sentence No | Actual | Prediction| Different |
+| Sentence No. | Actual | Prediction| Different |
 |--------------|-------------|-------------|-------|
 | Sentence 1 | unsatisfied | unsatisfied |  No |
 | Sentence 2 | satisfied | satisfied |  No |
