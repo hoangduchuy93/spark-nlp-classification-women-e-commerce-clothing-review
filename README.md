@@ -135,7 +135,7 @@ Comment: The accuracy, precision and recall give better results => Logistic Regr
   - Sentence 4: If you are going for ridiculously high priced ugly sweater contest  this is the one for you  normally like clothing with some character and juxtaposition  but this one did not do it for me  cannot imagine the collar fitting right or flattering anyone  and the mixed layers end up making it look cheap rather than trendy     
   - Sentence 5: saw this online and immediately purchased the top in gray  it is so easy and casual but the shoulder detailing give it something different and unique for regular gray shirt  the fit is loose and comfortable but not overly big  just right   can not wait to pair it with my new white jeans for summer
 
-Just be looking, I can understand that:
+Just be looking, I can tell that:
 - Sentence 1: unsatisfied
 - Sentence 2: satisfied
 - Sentence 3: unsatisfied
